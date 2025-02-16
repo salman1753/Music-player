@@ -1,0 +1,41 @@
+@mixin span{
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#0{
+    @include span;
+}
+#1{
+    @include span;
+}
+#2{
+    @include span;
+}
+#3{
+    @include span;
+}
+#4{
+    @include span;
+}
+#5{
+    @include span;
+}
+#6{
+    @include span;
+}
+#7{
+    @include span;
+}
+#8{
+    @include span;
+}
+#9{
+    @include span;
+}
+#10{
+    @include span;
+}
+#11{
+    @include span;
+}
