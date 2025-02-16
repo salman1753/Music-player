@@ -1,0 +1,4 @@
+This music player is a web-based application built using HTML, CSS, and JavaScript.
+The project includes a folder in VS Code that contains songs, images, and the necessary code files.
+It allows users to play, pause, skip tracks, and view song details with album art.
+The interface is designed to be responsive and visually appealing, ensuring smooth playback and user-friendly controls.
